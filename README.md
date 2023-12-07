@@ -20,6 +20,7 @@ The script is organized into multiple sections, each beginning with a unique ste
 
 - **SYSUT1 DD Statements:** Used to input the specific data for each station or fare information.
 - **SYSUT2 DD Statements:** Specifies the dataset names and attributes for storing the compiled schedule.
+- **USER.JCL3OUT:** Is an example of the output.
 
 ## Usage
 
